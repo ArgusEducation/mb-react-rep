@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Текст писать тут
+          Моё имя: Безпальчук Максим Сергеевич
+          Далее - информация обо мне, но лень писать
         </p>
       </header>
     </div>
